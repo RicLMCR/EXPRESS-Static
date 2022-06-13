@@ -1,0 +1,23 @@
+{
+  "name": "w10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicLMCR/EXPRESS-Static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicLMCR/EXPRESS-Static/issues"
+  },
+  "homepage": "https://github.com/RicLMCR/EXPRESS-Static#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
